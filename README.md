@@ -63,18 +63,6 @@
 
 ---
 
-## 🚀 Projects
-
-> 🔧 *More projects coming soon — stay tuned!*
-
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| 🔨 Project 1 | Brief description here | Python, TensorFlow |
-| 🌐 Project 2 | Brief description here | React, Node.js, Firebase |
-| 📊 Project 3 | Brief description here | FastAPI, scikit-learn |
-
----
-
 ## 📬 Contact & Socials
 
 <p>
