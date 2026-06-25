@@ -3,7 +3,7 @@
 </div>
 <br/>
 <div align="center">
-<a href="https://www.linkedin.com/in/ayush-bire-ba5a81402/"><img src="https://img.shields.io/badge/ayush--bire-e2e8f0?style=flat-square&logo=linkedin&labelColor=0d1117&color=0d1117"/></a>&emsp;<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/your@email.com-e2e8f0?style=flat-square&logo=gmail&labelColor=0d1117&color=0d1117"/></a>&emsp;<a href="https://github.com/AyushBire"><img src="https://img.shields.io/badge/AyushBire-e2e8f0?style=flat-square&logo=github&labelColor=0d1117&color=0d1117"/></a>
+<a href="https://www.linkedin.com/in/ayush-bire-ba5a81402/"><img src="https://img.shields.io/badge/ayush--bire-e2e8f0?style=flat-square&logo=linkedin&labelColor=0d1117&color=0d1117"/></a>&emsp;<a href="mailto:ayushbire222@email.com"><img src="https://img.shields.io/badge/your@email.com-e2e8f0?style=flat-square&logo=gmail&labelColor=0d1117&color=0d1117"/></a>&emsp;<a href="https://github.com/AyushBire"><img src="https://img.shields.io/badge/AyushBire-e2e8f0?style=flat-square&logo=github&labelColor=0d1117&color=0d1117"/></a>
 </div>
 
 <br/>
